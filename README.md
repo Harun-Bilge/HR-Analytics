@@ -79,7 +79,7 @@ Additionally, younger employees and those with fewer years at the company showed
 
 ---
 
-## 🌳 Feature Importance (Decision Tree)
+## Feature Importance (Decision Tree)
 
 ![Top 10 Features Impacting Employee Attrition](visualizations/feature_importance.png) 
 Decision Tree results highlight that MonthlyIncome, OverTime, and DailyRate are the strongest predictors of attrition.
